@@ -1,0 +1,17 @@
+{
+    "name": "hp/i-tech",
+    "autoload": {
+        "psr-4": {
+            "Hp\\ITech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chandra kant kumar",
+            "email": "kumarchandra9122@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
